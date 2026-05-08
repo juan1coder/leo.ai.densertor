@@ -1,0 +1,6 @@
+{
+  "name": "Leo.ai Prompt Optimizer",
+  "description": "An AI-powered tool to expand and contract prompts, supporting multimodal text and image inputs using Google Gemini.",
+  "requestFramePermissions": ["clipboard-read", "clipboard-write"],
+  "majorCapabilities": []
+}
